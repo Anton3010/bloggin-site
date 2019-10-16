@@ -1,0 +1,14 @@
+.best{
+  color: red;
+  font-style: italic;
+}
+
+.okay {
+  color:grey;
+}
+
+.about {
+  font-size: 12px;
+  font-weight: lighter;
+  width: 30%;
+}
